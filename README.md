@@ -17,6 +17,7 @@
 
 1.  school-admin为前端项目，school-server为后端项目。需分开进行安装及运行。
 2.  请自行更改school-sever\db\config.js文件中的数据库链接。
+3.  具体实施过程和介绍，请前往https://www.jianshu.com/c/0d11b49cf7a4
 
 #### 参与贡献
 
