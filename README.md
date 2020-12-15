@@ -15,7 +15,8 @@
 
 #### 使用说明
 
-1.  请自行更改school-sever\db\config.js文件中的数据库链接。
+1.  school-admin为前端项目，school-server为后端项目。需分开进行安装及运行。
+2.  请自行更改school-sever\db\config.js文件中的数据库链接。
 
 #### 参与贡献
 
