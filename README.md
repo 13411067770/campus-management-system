@@ -21,7 +21,7 @@
 1.  school-admin为前端项目，school-server为后端项目。需分开进行安装及运行。
 2.  请自行更改school-sever\db\config.js文件中的数据库链接。
 3.  写了一个系列的教程配套文章，如何从零构建后一个完整的后台项目:
- 请前往 https://www.jianshu.com/c/0d11b49cf7a4
+###### 请前往 https://www.jianshu.com/c/0d11b49cf7a4
 >  - [学校管理系统 school-manager-admin（环境配置）](https://www.jianshu.com/p/fdc82b41902b)
 >  - [MogoDB数据库搭建及安装](https://www.jianshu.com/p/4b25894d8001)
 >  - [lzj/校园管理系统搭建2](https://www.jianshu.com/p/15f16728534d)
