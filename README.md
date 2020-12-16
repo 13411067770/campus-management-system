@@ -5,8 +5,11 @@
 本项目的定位是后台集成方案，不太适合当基础模板来进行二次开发。因为本项目集成了很多你可能用不到的功能，会造成不少的代码冗余。如果你的项目不关注这方面的问题，也可以直接基于它进行二次开发。
 
 #### 软件架构
-使用node.js
 
+1.  [node.js](https://nodejs.org/en/)
+2.  [MogoDB](https://www.mongodb.com/)
+3.  [ES6-promise语法插件](https://es6.ruanyifeng.com/)
+4.  [koa-generator](https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FPanJiaChen%2Fvue-admin-template)
 
 #### 安装教程
 
