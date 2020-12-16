@@ -24,11 +24,11 @@
 写了一个系列的教程配套文章，如何从零构建后一个完整的后台项目:
 >  - [学校管理系统 school-manager-admin（环境配置）](https://www.jianshu.com/p/fdc82b41902b)
 >  - [MogoDB数据库搭建及安装](https://www.jianshu.com/p/4b25894d8001)
->  - [nodejs vue-element-admin（实训续2）](https://www.jianshu.com/p/15f16728534d)
->  - [nodejs vue-element-admin（实训续3）]([https://www.jianshu.com/p/56acb5224e2a)
->  - [nodejs vue-element-admin（实训续4）](https://www.jianshu.com/p/d346d8d48645)
->  - [nodejs vue-element-admin（实训续5）]()
->  - [nodejs vue-element-admin（实训续6）]()
+>  - [lzj/校园管理系统搭建2](https://www.jianshu.com/p/15f16728534d)
+>  - [lzj/校园管理系统搭建3]([https://www.jianshu.com/p/56acb5224e2a)
+>  - [lzj/校园管理系统搭建4](https://www.jianshu.com/p/d346d8d48645)
+>  - [lzj/校园管理系统搭建5]()
+>  - [lzj/校园管理系统搭建6]()
 
 #### 参与贡献
 
