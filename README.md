@@ -25,7 +25,7 @@
 >  - [学校管理系统 school-manager-admin（环境配置）](https://www.jianshu.com/p/fdc82b41902b)
 >  - [MogoDB数据库搭建及安装](https://www.jianshu.com/p/4b25894d8001)
 >  - [lzj/校园管理系统搭建2](https://www.jianshu.com/p/15f16728534d)
->  - [lzj/校园管理系统搭建3]([https://www.jianshu.com/p/56acb5224e2a)
+>  - [lzj/校园管理系统搭建3](https://www.jianshu.com/p/56acb5224e2a)
 >  - [lzj/校园管理系统搭建4](https://www.jianshu.com/p/d346d8d48645)
 >  - [lzj/校园管理系统搭建5]()
 >  - [lzj/校园管理系统搭建6]()
