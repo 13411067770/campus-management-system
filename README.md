@@ -27,8 +27,8 @@
 >  - [lzj/校园管理系统搭建2](https://www.jianshu.com/p/15f16728534d)
 >  - [lzj/校园管理系统搭建3](https://www.jianshu.com/p/56acb5224e2a)
 >  - [lzj/校园管理系统搭建4](https://www.jianshu.com/p/d346d8d48645)
->  - [lzj/校园管理系统搭建5]()
->  - [lzj/校园管理系统搭建6]()
+>  - [lzj/校园管理系统搭建5](https://www.jianshu.com/p/998a91817648)
+>  - [lzj/校园管理系统搭建6](https://www.jianshu.com/p/e41ce93c1aa3)
 
 #### 参与贡献
 
