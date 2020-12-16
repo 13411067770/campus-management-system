@@ -5,11 +5,11 @@
       style="width: 100%"
       :row-class-name="tableRowClassName">
 
-      <el-table-column
+<!--       <el-table-column
         prop="_id"
         label="学院_id"
         width="180">
-      </el-table-column>
+      </el-table-column> -->
       <el-table-column
         prop="name"
         label="学院名称"
