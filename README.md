@@ -24,7 +24,6 @@
 1.  指导老师@去年的牛肉(https://www.jianshu.com/u/b7ea376b2dca)
 2.  基础摸版vue-admin-template（https://links.jianshu.com/go?to=https%3A%2F%2Fgithub.com%2FPanJiaChen%2Fvue-admin-template）
 2.  Axios 插件 老师@去年的牛肉(https://www.jianshu.com/u/b7ea376b2dca)
-
 >*参考贡献
 >*去年的牛肉：
 >*https://www.jianshu.com/p/aaf830870744
