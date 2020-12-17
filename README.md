@@ -14,7 +14,8 @@
 #### 安装教程
 
 1.  npm install    #下载插件数据包
-2.  npm run dev    #运行
+2.  npm install --save es6-promise 安装es6语法插件(在前端项目school-admin中)
+3.  npm run dev    #运行
 
 #### 使用说明
 
